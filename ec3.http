@@ -1,4 +1,4 @@
-@server = https://examen-ecv-3.onrender.com
+@server = https://examen3-84da.onrender.com
 @api = {{server}}/api/ec3
 
 ################ Categorias: ################
